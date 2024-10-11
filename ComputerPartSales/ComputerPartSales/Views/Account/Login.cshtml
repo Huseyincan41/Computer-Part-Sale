@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LayoutComputer.cshtml";
+}
+@model LoginViewModel
+<section class="login_box_area section-margin">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6">
+					<div class="login_box_img">
+						<div class="hover">
+						<h4>Web sitemizde yeni misiniz?</h4>
+							
+							<a class="button button-account" asp-action="Register" asp-controller="Account">Hesap Oluştur</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<div class="login_form_inner">
+					<h3>Girmek için oturum açın</h3>
+					<form class="row login_form" asp-controller="Account" asp-action="Login" method="post">
+						<input type="hidden" name="ReturnUrl" value="@Model.ReturnUrl" />
+						<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+							<div class="col-md-12 form-group">
+							<input asp-for="UserName" class="form-control" placeholder="Kullanıcı Adı" />
+
+							<span asp-validation-for="UserName" class="text-danger"></span>
+							</div>
+							<div class="col-md-12 form-group">
+							<input asp-for="Password" type="password" class="form-control" placeholder="Şifre" />
+
+							<span asp-validation-for="Password" class="text-danger"></span>
+							</div>
+						<div class="col-md-12 form-group">
+							<input asp-for="RememberMe" class="form-check-input" />
+							<label asp-for="RememberMe" class="form-check-label">  <strong> Beni Hatırla</strong>    </label>
+						</div>
+							
+							<div class="col-md-12 form-group">
+								<button type="submit" value="submit" class="button button-login w-100">Giriş Yap</button>
+								
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+

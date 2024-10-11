@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "MessageShow";
+    Layout = "~/Views/Shared/_LayoutComputer.cshtml";
+}
+
+<p></p>
+<h2>İşlem Sonucu</h2>
+
+@if (TempData["mesaj"] != null)
+{
+    <div class="alert alert-success mt-10">
+        @TempData["mesaj"]
+    </div>
+}

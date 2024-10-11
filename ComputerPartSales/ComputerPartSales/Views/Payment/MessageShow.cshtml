@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "MessageShow";
+    Layout = "~/Views/Shared/_LayoutComputer.cshtml";
+}
+
+<p></p>
+@if (TempData["mesaj"] != null)
+{
+    <div class="container my-5 d-flex justify-content-center">
+        <div class="alert alert-success d-flex align-items-center justify-content-center" style="width: 70%; padding: 40px; font-size: 1.5rem;">
+            <i class="fas fa-check-circle fa-2x mr-3"></i>
+            <span>
+                @TempData["mesaj"]
+            </span>
+        </div>
+    </div>
+}
+

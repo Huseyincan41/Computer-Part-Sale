@@ -1,0 +1,147 @@
+﻿@model InvoiceViewModel
+@{
+    ViewData["Title"] = "ConfirmPayment";
+    Layout = "~/Views/Shared/_LayoutComputer.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg">
+        <div class="card-header bg-primary text-white text-center">
+            <h3>Ödeme Onay Sayfası</h3>
+        </div>
+        <div class="card-body">
+            <form asp-action="ConfirmPayment" asp-controller="Payment" method="post">
+                <input type="hidden" asp-for="@Model.userViewModel.Id" />
+                <input type="hidden" asp-for="@Model.satisViewModel.UserId" />
+                <input type="hidden" asp-for="@Model.satisViewModel.Date" />
+                <input type="hidden" asp-for="@Model.satisViewModel.Quantity" />
+                <input type="hidden" asp-for="@Model.satisViewModel.Price" />
+                
+                <input type="hidden" asp-for="@Model.userViewModel.LastName" />
+                
+                
+                
+
+
+                <div class="row">
+                    <!-- Müşteri Bilgileri -->
+                    <div class="col-md-12 mb-3">
+                        <h4 class="text-primary">Müşteri Bilgileri</h4>
+                        <div class="table table-stripede">
+                            <table class="table table-bordered">
+                                <tbody>
+                                    <tr>
+                                        <td><strong>Adı:</strong></td>
+                                        <td>@Model.userViewModel.FirstName</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Email:</strong></td>
+                                        <td>@Model.userViewModel.Email</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Telefon Numarası:</strong></td>
+                                        <td>@Model.userViewModel.PhoneNumber</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Adres:</strong></td>
+                                        <td>@Model.userViewModel.Address</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Sepet Bilgileri -->
+                    <div class="col-md-12 mb-3">
+                        <h4 class="text-primary">Sepet Bilgileri</h4>
+                        <div class="table-responsive">
+                            <table class="table table-striped table-hover">
+                                <thead class="table-primary">
+                                    <tr>
+                                        <th>Ürün Adı</th>
+                                        <th>Birim Fiyat</th>
+                                        <th>Adet</th>
+                                        <th>Toplam Tutar</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var siparis in Model.sepetDetayListesi)
+                                    {
+                                        <tr>
+                                            <td>@siparis.ComputerPartName</td>
+                                            <td>@siparis.ComputerPartPrice.ToString("C")</td>
+                                            <td>@siparis.ComputerPartQuantity</td>
+                                            <td>@(siparis.ComputerPartQuantity * siparis.ComputerPartPrice)</td>
+                                            @* <td>@siparis.ImageUrl</td>
+                                            <td>@siparis.ComputerPartDescription</td>    *@   
+                                        </tr>
+                                    }
+                                </tbody>
+                                <tfoot class="fw-bold bg-light">
+                                    <tr>
+                                        <td>Toplam</td>
+                                        <td></td>
+                                        <td>@Model.satisViewModel.Quantity</td>
+                                        <td>@Model.satisViewModel.Price.ToString("C")</td>
+                                    </tr>
+                                </tfoot>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Kredi Kartı Bilgileri -->
+                    <div class="col-md-12 mb-3">
+                        <h5 class="text-center text-primary">Kredi Kartı Bilgileri</h5>
+                        <div class="table-responsive">
+                            <table class="table table-bordered">
+                                <tbody>
+                                    <tr>
+                                        <td><strong>Kartın Üstündeki İsim:</strong></td>
+                                        <td>
+                                            <input asp-for="@Model.userViewModel.FirstName" class="form-control" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Kredi Kartı Numarası:</strong></td>
+                                        <td>
+                                            <input id="ccnumber" name="ccnumber" class="form-control" type="text" placeholder="1111-2222-3333-4444" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Ay:</strong></td>
+                                        <td>
+                                            <input id="expmonth" name="expmonth" class="form-control" type="text" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Yıl:</strong></td>
+                                        <td>
+                                            <input id="expyear" name="expyear" class="form-control" type="text" placeholder="2025" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>CVV:</strong></td>
+                                        <td>
+                                            <input id="cvv" name="cvv" class="form-control" type="text" />
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="form-group text-center mt-3">
+                            <input type="submit" value="Satın Al" class="btn btn-primary w-50" />
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<style>
+    .table-hover tbody tr:hover {
+        background-color:gray 
+        color: white;
+    }
+</style>
+

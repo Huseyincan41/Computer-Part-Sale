@@ -1,0 +1,128 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutComputer.cshtml";
+}
+@model List<SepetDetay>
+
+<section class="blog-banner-area" id="category">
+    <div class="container h-100">
+        <div class="blog-banner">
+            <div class="text-center">
+                <h1>Shopping Cart</h1>
+                <nav aria-label="breadcrumb" class="banner-breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Shopping Cart</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ================ end banner area ================= -->
+<!--================Cart Area =================-->
+<section class="cart_area">
+    <div class="container">
+        <div class="cart_inner">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Ürün Adı:</th>
+                            <th scope="col">Ürün Fiyatı:</th>
+                            <th scope="col">Ürün Adeti:</th>
+                            <th scope="col">Ürün Tutarı:</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    <div class="media">
+                                        <div class="d-flex">
+                                            <img src="@item.ImageUrl" alt="">
+                                        </div>
+                                        <div class="media-body">
+                                            <p>@item.ComputerPartName</p>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>
+                                    <h5>@item.ComputerPartPrice</h5>
+                                </td>
+                                <td>
+                                    <div class="product_count">
+                                        
+                                        <h5>@item.ComputerPartQuantity</h5>
+                                    </div>
+                                </td>
+                                <td>
+                                    <h5>@(item.ComputerPartQuantity * item.ComputerPartPrice )</h5>
+                                </td>
+                            </tr>
+                        }
+                        
+                        
+                        <tr class="bottom_button">
+                            <td>
+                                
+                            </td>
+                            <td>
+                            </td>
+                            <td>
+                            </td>
+                            <td>
+                                <div class="cupon_text d-flex align-items-center">
+                                   
+                                    <a class="primary-btn" asp-controller="Payment" asp-action="ConfirmAddress">Sepeti Onayla</a>
+                                    
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            </td>
+                            <td>
+                            </td>
+                            <td>
+                                <h5>
+                                    Toplam Tutar:
+                                    @if (TempData["ToplamTutar"] != null)
+                                    {
+                                        @TempData["ToplamTutar"]
+                                    }
+                                </h5>
+                            </td>
+                            <td>
+                                <h5>
+                                    Toplam Adet:
+                                    @if (TempData["ToplamAdet"] != null)
+                                    {
+                                        @TempData["ToplamAdet"]
+                                    }
+                                </h5>
+                            </td>
+                        </tr>
+                        
+                        <tr class="out_button_area">
+                            <td class="d-none-l">
+                            </td>
+                            <td class="">
+                            </td>
+                            <td>
+                            </td>
+                            <td>
+                                <div class="checkout_btn_inner d-flex align-items-center">
+                                    <a class="gray_btn" href="Home/Product">Alışverişe Devam Et</a>
+                                   
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>

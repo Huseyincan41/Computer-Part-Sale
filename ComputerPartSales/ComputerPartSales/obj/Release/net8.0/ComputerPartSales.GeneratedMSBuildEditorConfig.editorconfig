@@ -1,0 +1,171 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ComputerPartSales
+build_property.RootNamespace = ComputerPartSales
+build_property.ProjectDir = C:\Users\Hüseyin Can\Desktop\Bilgisayar Parça Satış Sitesi\ComputerPartSales\ComputerPartSales\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Hüseyin Can\Desktop\Bilgisayar Parça Satış Sitesi\ComputerPartSales\ComputerPartSales
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Home/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Home/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Home/SalesDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxTYWxlc0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Home/ShowSales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxTaG93U2FsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Home/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Home/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Home/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Order/OrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Payment/ConfirmAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxDb25maXJtQWRkcmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Payment/ConfirmPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxDb25maXJtUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Payment/MessageShow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxNZXNzYWdlU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Sepet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VwZXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Sepet/MessageShow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VwZXRcTWVzc2FnZVNob3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Shared/Components/Category/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Shared/_LayoutComputer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDb21wdXRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hüseyin Can/Desktop/Bilgisayar Parça Satış Sitesi/ComputerPartSales/ComputerPartSales/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-iy1lott3a6

@@ -1,0 +1,109 @@
+﻿@model IEnumerable<Entity.ViewModels.ComputerPartViewModel>
+
+@{
+    ViewData["Title"] = "List";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<p>
+    
+    <a asp-action="Index" asp-controller="Category" asp-area="Admin">Kategori Listesi</a>
+</p>
+@* <div>
+    <form asp-controller="Home" asp-action="Index" class="d-flex w-100">
+        <div><input name="search" class="form-control me-2" type="search" placeholder="Ara" aria-label="Search" style="max-width: 400px;"></div>
+        <div>    <button class="#buton" type="submit" style="width: 100px; height: 40px;">Ara</button></div>
+    </form>
+</div> *@
+<div class="row">
+    <div class="col-md-12">
+
+        <div id="productList">
+            @if (Model.Count() > 0)
+            {
+                <div class="row">
+                    @foreach (var product in Model)
+                    {
+                       
+                        
+                        <div class="col-md-3 mb-4">
+                            <div class="card mb-3 custom-card h-100">
+                                <div class="card-header text-center">
+                                    <h5 class="card-title">@product.Name</h5>
+                                </div>
+                                <a href="/Product/Details/@product.ComputerPartId">
+                                    <img src="@product.ImageUrl" class="card-img-top" title="@product.Name" alt="@product.Name" />
+                                </a>
+                                <div class="card-body text-center">
+                                    <p>@product.Description</p>
+                                    <span class="card-text">@string.Format("{0:C2}", @product.Price)</span>
+                                </div>
+                                <div class="card-footer text-center">
+                                    <form asp-action="Delete" method="post" class="d-inline">
+                                        <input type="hidden" name="id" value="@product.ComputerPartId" />
+                                        <button type="submit" class="btn btn-danger mx-2">Sil</button>
+                                    </form>
+                                    <a asp-controller="Home" asp-action="Edit" asp-route-ComputerPartId="@product.ComputerPartId">Düzenle</a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-info custom-alert text-center" role="alert">
+                    <strong>İstenilen türde ürün bulunmamaktadır!</strong>
+                </div>
+            }
+        </div>
+    </div>
+    <style>
+        .custom-card {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+            .custom-card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            }
+
+        .card-footer {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .btn-danger, .btn-primary {
+            width: 100px;
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+        }
+
+        .card-text {
+            font-weight: bold;
+        }
+
+        h2 {
+            margin: 0;
+        }
+
+        .form-control {
+            text-align: center;
+        }
+
+        .d-flex {
+            display: flex;
+        }
+
+        #buton {
+            align-items: center;
+            padding: 10px;
+        }
+    </style>

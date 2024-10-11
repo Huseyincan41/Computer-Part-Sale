@@ -1,0 +1,171 @@
+﻿
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Views/Shared/_LayoutComputer.cshtml";
+}
+@model ComputerPartViewModel 
+@* <section class="blog-banner-area" id="blog">
+    <div class="container h-100">
+        <div class="blog-banner">
+            <div class="text-center">
+                <h1>Shop Single</h1>
+                <nav aria-label="breadcrumb" class="banner-breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Shop Single</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section> *@
+<div class="product_image_area">
+	
+	<div class="container">
+		<div class="row s_product_inner">
+			<form asp-controller="Sepet" asp-action="Ekle" method="get">
+				<input type="hidden" name="Id" value="@Model.ComputerPartId" />
+				<input type="hidden" name="Id" value="@Model.ImageUrl" />
+				<div class="col-lg-6" style="float:left">
+					<img style="width:600px;height:610px"  src="@Model.ImageUrl" alt="">		
+				
+			</div>
+			<div class="col-lg-5 offset-lg-1" style="float:left">
+				<div class="s_product_text">
+						<br />
+						<br /><br />
+						<br />
+						<br /><br />
+						<br />
+					<h3>@Model.Name</h3>
+					<br />
+						<br />
+					<h2>@Model.Price</h2>
+						
+						
+					<ul class="list">
+						
+						<li><a href="#"><span>Stock:</span> : Stockda Var</a></li>
+					</ul>
+						<br />
+						
+						
+					
+						<label for="qty">Adet:</label>
+							<input class="input-text qty" type="number" id="sst" name="Adet" value="1" min="1" max="@Model.Stock" /><br />
+						
+						@if (User.Identity.IsAuthenticated)
+						{
+
+							<button type="submit" style="float:left" class="button primary-btn">
+									Sepete At
+									<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cart-plus-fill" viewBox="0 0 16 16">
+										<path d="M.5 1a.5.5 0 0 0 0 1h1.11l.401 1.607 1.498 7.985A.5.5 0 0 0 4 12h1a2 2 0 1 0 0 4 2 2 0 0 0 0-4h7a2 2 0 1 0 0 4 2 2 0 0 0 0-4h1a.5.5 0 0 0 .491-.408l1.5-8A.5.5 0 0 0 14.5 3H2.89l-.405-1.621A.5.5 0 0 0 2 1zM6 14a1 1 0 1 1-2 0 1 1 0 0 1 2 0m7 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0M9 5.5V7h1.5a.5.5 0 0 1 0 1H9v1.5a.5.5 0 0 1-1 0V8H6.5a.5.5 0 0 1 0-1H8V5.5a.5.5 0 0 1 1 0" />
+									</svg>
+								</button>
+								
+						}
+						else
+						{
+							<a class="button primary-btn"  asp-controller="Account" asp-action="Login">Sepete Ürün Eklemek İçin Giriş Yapınız</a>
+						}
+
+					<br />
+					<br />
+					<br />
+				</div>
+					
+			</div>
+			
+				<section class="product_description_area">
+					<div class="container">
+						<ul class="nav nav-tabs" id="myTab" role="tablist">
+							<li class="nav-item">
+								<a class="nav-link" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Description</a>
+							</li>
+							
+							<li class="nav-item">
+								<a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact"
+								   aria-selected="false">Comments</a>
+							</li>
+
+						</ul>
+						<div class="tab-content" id="myTabContent">
+							<div class="tab-pane fade" id="home" role="tabpanel" aria-labelledby="home-tab">
+								<p>
+									@Model.Description
+								</p>
+								
+							</div>
+
+							<div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+								<div class="row">
+									<div class="col-lg-6">
+										<div class="comment_list">
+											@if (ViewBag.Feedbacks != null && ViewBag.Feedbacks.Count > 0)
+											{
+												@foreach (var feedback in ViewBag.Feedbacks)
+												{
+													<div class="review_item">
+														<div class="media">
+															<div class="d-flex">
+																<img src="img/product/review-1.png" alt="">
+															</div>
+															<div class="media-body">
+																<h4>Kullanıcı Ad:@feedback.Name</h4>
+																<p>
+																	@feedback.Description
+
+																</p>
+
+															</div>
+														</div>
+
+													</div>
+												}
+
+											}
+											else
+											{
+												<p>Bu ürüne henüz yorum yapılmamış.</p>
+											}
+										</div>
+									</div>
+									<div class="col-lg-6">
+										<div class="review_box">
+											<h4>Yorumlar</h4>
+											@if (User.Identity.IsAuthenticated)
+											{
+												<form class="row contact_form" method="post" asp-action="CreateFeedback" asp-controller="Home">
+													<input type="hidden" name="id" value="@Model.ComputerPartId" />
+													<div class="col-md-12">
+														<div class="form-group">
+															<textarea class="form-control" name="message" id="message" rows="1" placeholder="Message"></textarea>
+														</div>
+													</div>
+													<div class="col-md-12 text-right">
+														<button type="submit" value="submit" class="btn primary-btn">Gönder</button>
+													</div>
+												</form>
+											}
+											else
+											{
+												<a asp-action="Login" asp-controller="Account">Yorum eklemek için üye girişi yapınız...</a>
+											}
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+		
+		</section>
+			</form>
+		</div>
+
+	</div>
+</div>
+			
+		
+

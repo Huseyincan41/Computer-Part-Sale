@@ -1,0 +1,1706 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\home\\showsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\home\\showsales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\home\\salesdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\home\\salesdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\shared\\_layoutcomputer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\shared\\_layoutcomputer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|solutionrelative:service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\wwwroot\\themes\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\wwwroot\\themes\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\service\\services\\computerpartsaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|solutionrelative:service\\services\\computerpartsaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\service\\services\\computerpartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|solutionrelative:service\\services\\computerpartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\services\\icomputerpartsaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\services\\icomputerpartsaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\services\\icomputerpartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\services\\icomputerpartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\services\\icomputerpartsaledetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\services\\icomputerpartsaledetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\payment\\confirmpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\payment\\confirmpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\payment\\confirmaddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\payment\\confirmaddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\wwwroot\\themes\\checkout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\wwwroot\\themes\\checkout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\order\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\sepet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\sepet\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\wwwroot\\themes\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\wwwroot\\themes\\cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\wwwroot\\themes\\confirmation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\wwwroot\\themes\\confirmation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\wwwroot\\themes\\single-product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\wwwroot\\themes\\single-product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\wwwroot\\themes\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\wwwroot\\themes\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\wwwroot\\themes\\category.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\wwwroot\\themes\\category.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\viewmodels\\computerpartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\computerpartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\entities\\computerpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\computerpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|solutionrelative:service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\data\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|solutionrelative:data\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|solutionrelative:data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\data\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|solutionrelative:data\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\service\\services\\computerpartsaledetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|solutionrelative:service\\services\\computerpartsaledetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\service\\extensions\\dependencyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|solutionrelative:service\\extensions\\dependencyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|solutionrelative:service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\service\\services\\sepetdetayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|solutionrelative:service\\services\\sepetdetayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\viewmodels\\computerpartsaledetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\computerpartsaledetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\viewmodels\\computerpartsaleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\computerpartsaleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\viewmodels\\sepetdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\sepetdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\entities\\computerpartsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\computerpartsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\entities\\computerpartsaledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\computerpartsaledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\service\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|solutionrelative:service\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\service\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|solutionrelative:service\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\viewmodels\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\service\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1471988F-CD26-4B37-8187-6656DD769CCB}|Service\\Service.csproj|solutionrelative:service\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\data\\context\\computerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|solutionrelative:data\\context\\computerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\services\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\viewmodels\\invoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\invoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\payment\\messageshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\payment\\messageshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\sepet\\messageshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\sepet\\messageshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\controllers\\sepetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\controllers\\sepetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Migrations\\20240925153430_l\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240925153430_l\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\services\\isepetdetayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\services\\isepetdetayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\data\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|solutionrelative:data\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\entity\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11035777-487F-4843-A98E-289ACFD6254D}|Entity\\Entity.csproj|solutionrelative:entity\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\computerpartsales\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1901559-EEB9-402B-BC6B-243EBE3EA72A}|ComputerPartSales\\ComputerPartSales.csproj|solutionrelative:computerpartsales\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\data\\migrations\\20241003171427_kuutr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|solutionrelative:data\\migrations\\20241003171427_kuutr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\data\\migrations\\20241003164327_kuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|solutionrelative:data\\migrations\\20241003164327_kuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|c:\\users\\h\u00FCseyin can\\desktop\\bilgisayar par\u00E7a sat\u0131\u015F sitesi\\computerpartsales\\data\\migrations\\20241003164600_kuut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A60A80-60BC-47A6-96DC-70A2A8E0053A}|Data\\Data.csproj|solutionrelative:data\\migrations\\20241003164600_kuut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\List.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\List.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\List.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\List.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:57:00.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAI8BAAAAAAAAAAApwDgCAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:50:17.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T21:32:38.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\SalesDelete.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\SalesDelete.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\SalesDelete.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\SalesDelete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T17:58:02.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShowSales.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\ShowSales.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\ShowSales.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\ShowSales.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\ShowSales.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T15:36:02.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\Users.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\Users.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\Users.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\Users.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T15:25:15.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T21:01:14.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T21:31:10.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:47:21.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:48:01.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T20:35:11.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAYwIAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T17:31:53.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T22:27:28.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T13:38:21.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T22:30:54.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:54:33.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T21:40:33.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T13:02:26.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LayoutComputer.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Shared\\_LayoutComputer.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Shared\\_LayoutComputer.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Shared\\_LayoutComputer.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Shared\\_LayoutComputer.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAKkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T12:28:19.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwEgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:30:24.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ComputerPartSales\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwEAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:39:55.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "ComputerPartSales\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAqwJoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:22:33.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ComputerPartSales\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:57:37.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:26:26.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Service\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:45:37.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T13:45:42.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAD4v0AAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:49:35.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ComputerPartSales\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwFgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:00:48.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\contact.html",
+              "RelativeDocumentMoniker": "ComputerPartSales\\wwwroot\\themes\\contact.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\contact.html",
+              "RelativeToolTip": "ComputerPartSales\\wwwroot\\themes\\contact.html",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAawJgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-11T12:48:16.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IComputerPartSaleDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\IComputerPartSaleDetailService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\IComputerPartSaleDetailService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\IComputerPartSaleDetailService.cs",
+              "RelativeToolTip": "Entity\\Services\\IComputerPartSaleDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:53:53.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T18:48:52.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T16:11:59.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Home\\Product.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Home\\Product.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Home\\Product.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Home\\Product.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T17:02:32.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T12:48:09.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAGkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T12:28:33.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IComputerPartService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\IComputerPartService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\IComputerPartService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\IComputerPartService.cs",
+              "RelativeToolTip": "Entity\\Services\\IComputerPartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:18:13.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T19:01:46.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IComputerPartSaleService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\IComputerPartSaleService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\IComputerPartSaleService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\IComputerPartSaleService.cs",
+              "RelativeToolTip": "Entity\\Services\\IComputerPartSaleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:54:30.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ComputerPartSaleService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\ComputerPartSaleService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ComputerPartSaleService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\ComputerPartSaleService.cs",
+              "RelativeToolTip": "Service\\Services\\ComputerPartSaleService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAArwEUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:50:58.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Sepet\\Index.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Sepet\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Sepet\\Index.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Sepet\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T19:10:38.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ComputerPartService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\ComputerPartService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ComputerPartService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\ComputerPartService.cs",
+              "RelativeToolTip": "Service\\Services\\ComputerPartService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvyUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:18:47.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ConfirmPayment.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Payment\\ConfirmPayment.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Payment\\ConfirmPayment.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Payment\\ConfirmPayment.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Payment\\ConfirmPayment.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAB0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T15:11:28.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ConfirmAddress.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Payment\\ConfirmAddress.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Payment\\ConfirmAddress.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Payment\\ConfirmAddress.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Payment\\ConfirmAddress.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T11:51:29.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Order\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Order\\OrderDetails.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Order\\OrderDetails.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Order\\OrderDetails.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T11:50:10.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "cart.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\cart.html",
+              "RelativeDocumentMoniker": "ComputerPartSales\\wwwroot\\themes\\cart.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\cart.html",
+              "RelativeToolTip": "ComputerPartSales\\wwwroot\\themes\\cart.html",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-08T12:28:55.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T22:05:34.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "single-product.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\single-product.html",
+              "RelativeDocumentMoniker": "ComputerPartSales\\wwwroot\\themes\\single-product.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\single-product.html",
+              "RelativeToolTip": "ComputerPartSales\\wwwroot\\themes\\single-product.html",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAIMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-03T16:30:02.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\index.html",
+              "RelativeDocumentMoniker": "ComputerPartSales\\wwwroot\\themes\\index.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\index.html",
+              "RelativeToolTip": "ComputerPartSales\\wwwroot\\themes\\index.html",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAtwGgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-02T12:27:28.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "checkout.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\checkout.html",
+              "RelativeDocumentMoniker": "ComputerPartSales\\wwwroot\\themes\\checkout.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\checkout.html",
+              "RelativeToolTip": "ComputerPartSales\\wwwroot\\themes\\checkout.html",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAtwIgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-08T22:06:20.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "category.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\category.html",
+              "RelativeDocumentMoniker": "ComputerPartSales\\wwwroot\\themes\\category.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\category.html",
+              "RelativeToolTip": "ComputerPartSales\\wwwroot\\themes\\category.html",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAtwGgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-02T17:00:18.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "confirmation.html",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\confirmation.html",
+              "RelativeDocumentMoniker": "ComputerPartSales\\wwwroot\\themes\\confirmation.html",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\wwwroot\\themes\\confirmation.html",
+              "RelativeToolTip": "ComputerPartSales\\wwwroot\\themes\\confirmation.html",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-08T21:31:38.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CategoryViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\ViewComponents\\CategoryViewComponent.cs",
+              "RelativeDocumentMoniker": "ComputerPartSales\\ViewComponents\\CategoryViewComponent.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\ViewComponents\\CategoryViewComponent.cs",
+              "RelativeToolTip": "ComputerPartSales\\ViewComponents\\CategoryViewComponent.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:21:06.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ComputerPartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\ComputerPartViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\ComputerPartViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\ComputerPartViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\ComputerPartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:54:35.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ComputerPart.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Entities\\ComputerPart.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\ComputerPart.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Entities\\ComputerPart.cs",
+              "RelativeToolTip": "Entity\\Entities\\ComputerPart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:45:15.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\CategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\CategoryViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\CategoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:54:18.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Entities\\Category.cs",
+              "RelativeToolTip": "Entity\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:01:48.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:04:07.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\RoleViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\RoleViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\RoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:56:59.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "Data\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Identity\\AppUser.cs",
+              "RelativeToolTip": "Data\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:49:22.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\AccountService.cs",
+              "RelativeToolTip": "Service\\Services\\AccountService.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAhwHAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:51:19.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Entity\\Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:51:00.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwGYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:48:30.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Entity\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Entity\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:47:45.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T22:00:28.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\appsettings.json",
+              "RelativeDocumentMoniker": "ComputerPartSales\\appsettings.json",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\appsettings.json",
+              "RelativeToolTip": "ComputerPartSales\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T10:54:34.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Program.cs",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Program.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Program.cs",
+              "RelativeToolTip": "ComputerPartSales\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:30:59.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T22:00:27.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ComputerPartSaleDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\ComputerPartSaleDetailService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ComputerPartSaleDetailService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\ComputerPartSaleDetailService.cs",
+              "RelativeToolTip": "Service\\Services\\ComputerPartSaleDetailService.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwFEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:55:14.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Entity\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:45:10.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "Data\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T21:46:17.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DependencyExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Extensions\\DependencyExtensions.cs",
+              "RelativeDocumentMoniker": "Service\\Extensions\\DependencyExtensions.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Extensions\\DependencyExtensions.cs",
+              "RelativeToolTip": "Service\\Extensions\\DependencyExtensions.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwEEAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:56:02.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T17:49:44.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T17:49:45.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ComputerPartSales\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ComputerPartSales\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-04T10:54:17.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SepetDetayService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\SepetDetayService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\SepetDetayService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\SepetDetayService.cs",
+              "RelativeToolTip": "Service\\Services\\SepetDetayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:38:27.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\OrderService.cs",
+              "RelativeToolTip": "Service\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:06:37.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ComputerPartSaleDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\ComputerPartSaleDetailViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\ComputerPartSaleDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\ComputerPartSaleDetailViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\ComputerPartSaleDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:54:50.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ComputerPartSaleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\ComputerPartSaleViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\ComputerPartSaleViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\ComputerPartSaleViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\ComputerPartSaleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:49:33.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "SepetDetay.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\SepetDetay.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\SepetDetay.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\SepetDetay.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\SepetDetay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:15:37.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Entity\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:05:56.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ComputerPartSaleDetail.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Entities\\ComputerPartSaleDetail.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\ComputerPartSaleDetail.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Entities\\ComputerPartSaleDetail.cs",
+              "RelativeToolTip": "Entity\\Entities\\ComputerPartSaleDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:01:42.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Entity\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:01:34.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ComputerPartSale.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Entities\\ComputerPartSale.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\ComputerPartSale.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Entities\\ComputerPartSale.cs",
+              "RelativeToolTip": "Entity\\Entities\\ComputerPartSale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:03:35.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:52:49.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Service\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "Service\\Extensions\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:41:56.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20241003171427_kuutr.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Migrations\\20241003171427_kuutr.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241003171427_kuutr.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Migrations\\20241003171427_kuutr.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241003171427_kuutr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:14:28.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "FeedBackService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\FeedBackService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\FeedBackService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Service\\Services\\FeedBackService.cs",
+              "RelativeToolTip": "Service\\Services\\FeedBackService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:13:12.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "FeedBackViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\FeedBackViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\FeedBackViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\FeedBackViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\FeedBackViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:11:50.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "FeedBack.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Entities\\FeedBack.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\FeedBack.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Entities\\FeedBack.cs",
+              "RelativeToolTip": "Entity\\Entities\\FeedBack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:10:28.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "20241003164327_kuu.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Migrations\\20241003164327_kuu.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241003164327_kuu.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Migrations\\20241003164327_kuu.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241003164327_kuu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:43:27.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "20241003164600_kuut.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Migrations\\20241003164600_kuut.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241003164600_kuut.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Migrations\\20241003164600_kuut.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241003164600_kuut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:46:01.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ComputerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Context\\ComputerDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\ComputerDbContext.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Context\\ComputerDbContext.cs",
+              "RelativeToolTip": "Data\\Context\\ComputerDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:39:16.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IFeedBackService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\IFeedBackService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\IFeedBackService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\IFeedBackService.cs",
+              "RelativeToolTip": "Entity\\Services\\IFeedBackService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:12:32.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Entity\\UnitOfWorks\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeToolTip": "Entity\\UnitOfWorks\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T11:49:49.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "InvoiceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\InvoiceViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\InvoiceViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\InvoiceViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\InvoiceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:47:52.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "MessageShow.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Payment\\MessageShow.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Payment\\MessageShow.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Payment\\MessageShow.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Payment\\MessageShow.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T19:10:56.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "MessageShow.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Sepet\\MessageShow.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Sepet\\MessageShow.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Sepet\\MessageShow.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Sepet\\MessageShow.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T19:08:57.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "SepetController.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Controllers\\SepetController.cs",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Controllers\\SepetController.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Controllers\\SepetController.cs",
+              "RelativeToolTip": "ComputerPartSales\\Controllers\\SepetController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAzwBwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:20:00.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20240925153430_l\u015F.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Migrations\\20240925153430_l\u015F.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240925153430_l\u015F.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Migrations\\20240925153430_l\u015F.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240925153430_l\u015F.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:34:30.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ISepetDetayService.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\ISepetDetayService.cs",
+              "RelativeDocumentMoniker": "Entity\\Services\\ISepetDetayService.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\Services\\ISepetDetayService.cs",
+              "RelativeToolTip": "Entity\\Services\\ISepetDetayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:22:54.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "Data\\Identity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Data\\Identity\\AppRole.cs",
+              "RelativeToolTip": "Data\\Identity\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:49:13.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Entity\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\Entity\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Entity\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:27:14.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ComputerPartSales\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\H\u00FCseyin Can\\Desktop\\Bilgisayar Par\u00E7a Sat\u0131\u015F Sitesi\\ComputerPartSales\\ComputerPartSales\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ComputerPartSales\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T12:28:43.183Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

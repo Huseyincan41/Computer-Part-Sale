@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ComputerPartSaleViewModel>
+@{
+    ViewData["Title"] = "ShowSales";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    h2 {
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .table {
+        width: 90%;
+        margin: auto;
+    }
+
+    th, td {
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .table thead th {
+        background-color: #f8f9fa;
+    }
+
+    .table-striped tbody tr:nth-of-type(odd) {
+        background-color: rgba(0, 0, 0, 0.05);
+    }
+</style>
+
+<h2>Yapılan Satışlar</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Satış ID</th>
+            <th>Tarih</th>
+            <th>Adet</th>
+            <th>Fiyat</th>
+            <th>Kullanıcı ID</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sale in Model)
+        {
+            <tr>
+                <td>@sale.Id</td>
+                <td>@sale.Date.ToString("dd.MM.yyyy HH:mm")</td>
+                <td>@sale.Quantity</td>
+                <td>@sale.Price.ToString("C")</td>
+                <td>@sale.UserId</td>
+                <td>
+                <form asp-action="SalesDelete" asp-controller="Home" method="post" class="d-inline">
+                    <input type="hidden" name="id" value="@sale.Id" />
+                    <button type="submit" class="btn btn-danger mx-2">Sil</button>
+                </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

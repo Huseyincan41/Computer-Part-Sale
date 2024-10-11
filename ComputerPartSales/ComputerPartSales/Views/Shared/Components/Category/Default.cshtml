@@ -1,0 +1,28 @@
+﻿@model List<CategoryViewModel>
+
+<p></p>
+<div class="list-group category-sidebar" style="background-color:darkgray">
+    <a href="/Home/Product" style="background-color:darkgray" class="head text-white @(ViewBag.SelectedCategoryId == null ? "active" : "")">
+        Tüm Ürünler
+    </a>
+    <div class="sidebar-categories">
+        <ul class="main-categories">
+            <li class="common-filter">
+                @foreach (var category in Model)
+                {
+                    <ul>
+                        <li class="filter-list">
+                            <a href="/Home/Product/@category.CategoryId" style="color:gray" class=" @(ViewBag.SelectedCategoryId == category.CategoryId ? "active" : "")">
+                                <input class="pixel-radio" type="radio">@category.Name                               
+                            </a>
+                        </li>
+                    </ul>
+                }
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+
+

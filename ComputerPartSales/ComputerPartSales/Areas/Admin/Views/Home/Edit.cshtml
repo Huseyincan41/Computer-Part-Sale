@@ -1,0 +1,69 @@
+﻿@model Entity.ViewModels.ComputerPartViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" asp-controller="Home" asp-area="Admin" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger" ></div>
+            <div class="form-group">
+                <label asp-for="ComputerPartId" class="control-label"></label>
+                <input asp-for="ComputerPartId" class="form-control" />
+                <span asp-validation-for="ComputerPartId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Stock" class="control-label"></label>
+                <input asp-for="Stock" class="form-control" />
+                <span asp-validation-for="Stock" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label"></label>
+                <select asp-for="CategoryId" class="form-control" asp-items="@ViewBag.Categories">
+                    <option selected disable>Kategori Seçiniz </option>
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IsPopulated" class="control-label"></label>
+                <select asp-for="IsPopulated" class="form-control">
+                    <option selected>False</option>
+                    <option>True</option>
+                </select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageUrl" class="control-label"></label>
+                <input type="file" asp-for="ImageUrl" name="formFile" value="@Model.ImageUrl"  class="form-control" />
+                <span asp-validation-for="ImageUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye Geri Dön</a>
+</div>
+

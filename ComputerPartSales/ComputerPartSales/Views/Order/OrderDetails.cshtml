@@ -1,0 +1,52 @@
+﻿@model ComputerPartSaleViewModel
+@{
+    ViewData["Title"] = "OrderDetails";
+    Layout = "~/Views/Shared/_LayoutComputer.cshtml";
+}
+
+<h2>Sipariş Detayları</h2>
+
+<p><strong>Sipariş Tarihi:</strong> @Model.Date.ToString("dd.MM.yyyy")</p>
+<p><strong>Toplam Ürün Sayısı:</strong> @Model.Quantity</p>
+<p><strong>Toplam Tutar:</strong> @Model.Price.ToString("C")</p>
+
+
+<h3>Ürünler:</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Ürün resmi</th>
+            
+            <th>Ürün Adı</th>
+            <th>Adet</th>
+            <th>Birim Fiyatı</th>
+            <th>Toplam Fiyat</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var detail in Model.SaleDetails)
+        {
+            <tr>
+                <td><img style="width:150px" src="@(detail.ComputerPart?.ImageUrl)" /></td>
+                
+                <td>@(detail.ComputerPartName ?? "Açıklama Yok")</td>
+                
+                <td>@detail.Number</td>
+                <td>@detail.UnitPrice.ToString("C")</td>
+                <td>@(detail.Number * detail.UnitPrice)</td>
+            </tr>
+        }
+       
+
+    </tbody>
+    
+</table>
+<div style="float:right" class="p-xl-3">
+    <p ><strong>Toplam Ürün Sayısı:</strong> @Model.Quantity</p>
+</div>
+
+<div style="float:right">
+<p ><strong>Toplam Tutar:</strong> @Model.Price.ToString("C")</p>
+</div>
+<br /><br />
